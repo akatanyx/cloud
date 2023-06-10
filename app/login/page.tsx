@@ -70,7 +70,7 @@ export default function Login() {
         <div className="w-1/6 border-b border-gray-300 mb-4 mt-4"></div>
         <Link
           href="/dashboard"
-          className="w-full w-1/6 text-cyan-500 font-semibold font-poppins mb-4 flex justify-evenly p-2 bg-white border-cyan-500 border rounded-lg mt-2"
+          className="w-1/6 text-cyan-500 font-semibold font-poppins mb-4 flex justify-evenly p-2 bg-white border-cyan-500 border rounded-lg mt-2"
         >
           <button type="submit" value="Login" className="flex items-center">
             <Image
